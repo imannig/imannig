@@ -1,4 +1,4 @@
-<font size="14"> 👋 Hi, I'm Zahran </font>
+<img src="https://github.com/lynnnnzx/LynnnnZx/raw/master/wave.gif" width="30px"> ## Hi, I'm Zahran </font>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/imannig?style=social">
 
