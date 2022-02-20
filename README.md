@@ -1,8 +1,6 @@
 <img src="https://github.com/lynnnnzx/LynnnnZx/raw/master/wave.gif" width="30px"> Hi!, I'm Zahran </font>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/imannig?style=social">
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%40imanniigg-ff69b4)](https://instagram.com/imanniigg)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/imannig?style=social"> [![Instagram Badge](https://img.shields.io/badge/Instagram-%40imanniigg-ff69b4)](https://instagram.com/imanniigg)
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40imannig-9cf)](https://t.me/imannig)
 
