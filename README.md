@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @imannig
-- 👀 I’m interested in Fu*king Mathematics
-- 🌱 I’m currently learning HOw to build Rom.
-- 💞️ I’m looking to collaborate on FF.HENGKER.MIKEY
-- 📫 How to reach me : go to my tg if u want fu*k me @imannig
 
 ![imannig's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannig&show_icons=true&theme=tokyonight)
 <!---
