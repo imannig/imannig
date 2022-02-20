@@ -1,7 +1,9 @@
 👋 Hi, I’m @imannig
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/imannig?style=social">
+
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%40imanniigg-ff69b4)](https://instagram.com/imanniigg)
+
 ![imannig's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannig&show_icons=true&theme=tokyonight)
 <!---
 imannig/imannig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
