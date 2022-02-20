@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imannig
+👋 Hi, I’m @imannig
 
 ![imannig's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannig&show_icons=true&theme=tokyonight)
 <!---
