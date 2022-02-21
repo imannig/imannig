@@ -3,7 +3,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/imannig?style=social">     [![Instagram Badge](https://img.shields.io/badge/Instagram-%40imanniigg-ff69b4?logo=instagram)](https://instagram.com/imanniigg)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40imannig-9cf?logo=telegram)](https://t.me/imannig)
 ![imannig's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannig&show_icons=true&theme=tokyonight)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imannig&theme=tokyonight)](https://git.io/streak-stats)
 
 
 #### Pinned repository:
