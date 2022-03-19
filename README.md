@@ -7,6 +7,6 @@
 
 
 #### Pinned repository:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imannig&repo=android_device_xiaomi_juice&theme=tokyonight)](https://github.com/imannig/android_device_xiaomi_juice)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imannig&repo=android_vendor_xiaomi_juice&theme=tokyonight)](https://github.com/imannig/android_vendor_xiaomi_juice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Projectelixir-devices&repo=android_device_xiaomi_juice&theme=tokyonight)](https://github.com/Projectelixir-devices/android_device_xiaomi_juice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Projectelixir-devices&repo=android_vendor_xiaomi_juice&theme=tokyonight)](https://github.com/ProjectElixir-devices/android_vendor_xiaomi_juice)
 
