@@ -1,4 +1,14 @@
-# Hi!, I'm Zahran </font>
+### Hi 👋, I'm Imannig
+https://forum.xda-developers.com/m/imannig.12034349/
+
+ Hi, I'm Zahran Ansaria from Bogor, Indonesia. Maintainer Android Custom Rom Project-elixir
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Project-elixir POCO M3/REDMI 9T. https://projectelixiros.com/home
+- 🌱 I’m currently learning How to pro at math.
+- 💬 Ask me about "Don't ask me, I'M No0b"
+- ⚡ Fun fact: I'm just a kid who doesn't know anything and noob at all.
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/imannig?style=social">     [![Instagram Badge](https://img.shields.io/badge/Instagram-%40imanniigg-ff69b4?logo=instagram)](https://instagram.com/imanniigg)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40imannig-9cf?logo=telegram)](https://t.me/imannig) ![](https://komarev.com/ghpvc/?username=imannig) [![Facebook Badge](https://img.shields.io/badge/Facebook-Zahran%20Ansaria-9cf?logo=facebook)](https://www.facebook.com/profile.php?id=100072471710595)
