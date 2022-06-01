@@ -5,7 +5,7 @@ https://forum.xda-developers.com/m/imannig.12034349/
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Project-elixir POCO M3/REDMI 9T. https://projectelixiros.com/home
+- 🔭 I’m currently working on Project-elixir POCO M3/REDMI 9T and PixelPlusUI Redmi Note 11.
 - 🌱 I’m currently learning How to pro at math.
 - 💬 Ask me about "Don't ask me, I'M No0b"
 - ⚡ Fun fact: I'm just a kid who doesn't know anything and noob at all.
