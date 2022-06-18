@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Imannig
 https://forum.xda-developers.com/m/imannig.12034349/
 
- Hi, I'm Zahran Ansaria from Bogor, Indonesia. Maintainer Android Custom Rom Project-elixir
+ Hi, I'm Zahran Ansaria from Bogor, Indonesia. Maintainer Android Custom Rom.
 
 Here are some ideas to get you started:
 
