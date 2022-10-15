@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/imannig?style=social"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/imann_ig">    [![Instagram Badge](https://img.shields.io/badge/Instagram-%40imanniigg-ff69b4?logo=instagram)](https://instagram.com/imanniigg)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40imanigg-9cf?logo=telegram)](https://t.me/imanigg) ![](https://komarev.com/ghpvc/?username=imannig) [![Facebook Badge](https://img.shields.io/badge/Facebook-Zahran%20Ansaria-9cf?logo=facebook)](https://www.facebook.com/profile.php?id=100072471710595) [![](https://img.shields.io/badge/Discord-imannig%230881-9cf?logo=discord)](https://www.discordapp.com/users/967809301819326484)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312pwkz37b3rx2f3nizqvhqptjqm&cover_image=true&theme=default&show_offline=false)](https://spotify-github-profile.vercel.app/api/view?uid=312pwkz37b3rx2f3nizqvhqptjqm&redirect=true)
+
 
 ![imannig's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannig&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imannig&theme=tokyonight)](https://git.io/streak-stats)
